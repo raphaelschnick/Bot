@@ -56,7 +56,7 @@ public class Main {
 		}
 
 	}
-	
+
 	public Main() throws LoginException, IllegalArgumentException{
 		INSTANCE = this;
 		
